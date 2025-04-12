@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Anything releted to DevOps/Cloud/K8s**
 
-- 👨‍💻 All of my projects are available at [https://vijai-veerapandian.carrd.co/](https://vijai-veerapandian.carrd.co/)
+- 👨‍💻 My portfolio website is at [https://vijai-veerapandian.carrd.co/](https://vijai-veerapandian.carrd.co/)
 
 - 📫 How to reach me **vijai.veerapandian@gmail.com**
 
