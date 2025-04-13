@@ -139,6 +139,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>  
+  <!--Intel OpenVino-->
+  <a href="https://docs.openvino.ai/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/OpenVINO_Logo_2021.svg" alt="openvino" width="40" height="40"/>
+  </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijai-veerapandian&show_icons=true&locale=en&layout=compact" alt="vijai-veerapandian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijai-veerapandian&show_icons=true&locale=en" alt="vijai-veerapandian" /></p>
