@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vijaiaaravindh veerapandian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaiaaravindh veerapandian" height="30" width="40" /></a>
 </p>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -88,21 +89,6 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
-  <!-- VMware -->
-  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="40" height="40"/>
-  </a>
-  <!-- Proxmox -->
-  <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Proxmox_logo-icon.svg" alt="proxmox" width="40" height="40"/>
-  </a>
-  <!-- VirtualBox -->
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="40" height="40"/>
-  </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijai-veerapandian&show_icons=true&locale=en&layout=compact" alt="vijai-veerapandian" /></p>
 
