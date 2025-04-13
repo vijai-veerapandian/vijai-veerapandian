@@ -47,6 +47,10 @@
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Proxmox_logo-icon.svg" alt="proxmox" width="40" height="40"/>
   </a>
+  <!--VMware vsphere-->
+  <a href="https://www.vmware.com/products/vsphere.html" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Vmware_vsphere_logo.svg" alt="vmware_vsphere" width="40" height="40"/>
+  </a>
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
