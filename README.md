@@ -43,9 +43,21 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
+  <!-- Proxmox -->
+  <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Proxmox_logo-icon.svg" alt="proxmox" width="40" height="40"/>
+  </a>
+  <!-- Ubuntu -->
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  </a>
   <!--bash-->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <!-- Red Hat -->
+  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
   </a>
   <!--python-->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -55,6 +67,30 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+    <!-- Ansible -->
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  </a>
+  <!-- GitHub Actions -->
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/>
+  </a>
+  <!-- Terraform -->
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  </a>
+  <!-- ArgoCD -->
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argocd" width="40" height="40"/>
+  </a>
+  <!-- Grafana Loki -->
+  <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer">
+    <img src="https://grafana.com/static/assets/img/logos/logo-loki.svg" alt="loki" width="40" height="40"/>
+  </a>
+  <!-- Prometheus -->
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  </a> 
   <!--grafana-->
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
