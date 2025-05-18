@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full time DevOps roles**
 
-- 🤝 I’m looking for help with **Anything releted to DevOps/Cloud/K8s**
+- 🤝 I’m looking for helping **Anything releted to DevOps/Cloud/K8s**
 
 - 👨‍💻 All of my projects are available at [https://vijai-veerapandian.carrd.co/](https://vijai-veerapandian.carrd.co/)
 
