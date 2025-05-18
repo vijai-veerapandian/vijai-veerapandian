@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **kubernetes**
 
-- 🌱 I’m currently learning **ArgoCD, Kubernetes integration**
+- 🌱 I’m currently learning **FluxCD, ArgoCD, Kubernetes integration**
 
 - 👯 I’m looking to collaborate on **Full time DevOps roles**
 
