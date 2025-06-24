@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **kubernetes**
 
-- 🌱 I’m currently learning **FluxCD, ArgoCD, Kubernetes integration**
-
 - 🤝 Interested in helping **Anything releted to DevOps/Cloud/K8s**
 
 - 👨‍💻 All of my public projects are available at [https://vijai-veerapandian.carrd.co/](https://vijai-veerapandian.carrd.co/)
