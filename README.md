@@ -14,66 +14,66 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
 
 ### ☁️ Cloud Platforms & Infrastructure
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware vSphere" width="36"/>
-  <img src="https://img.shields.io/badge/Proxmox-333333?logo=proxmox&logoColor=E57000" alt="Proxmox" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="28"/>
+  <img src="https://img.shields.io/badge/vSphere-073042?style=flat&logo=vmware&logoColor=white" alt="VMware vSphere" height="22"/>
+  <img src="https://img.shields.io/badge/Proxmox-333333?logo=proxmox&logoColor=E57000" alt="Proxmox" height="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="28"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm" height="22"/>
 </p>
 
 ### 📈 Monitoring & Observability
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="28"/>
 </p>
 
 ### 🔄 Version Control & CI/CD
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36"/>
-  <img src="https://img.shields.io/badge/Flux%20CD-0066FF?logo=flux&logoColor=white" alt="Flux CD" height="30"/>
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="28"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" height="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="28"/>
+  <img src="https://img.shields.io/badge/Flux%20CD-0066FF?logo=flux&logoColor=white" alt="Flux CD" height="22"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD" height="22"/>
 </p>
 
 ### 🔐 Security & Configuration Management
 <p>
-  <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white" alt="Vault" height="30"/>
-  <img src="https://img.shields.io/badge/SOPS-303030?logo=gnuprivacyguard&logoColor=white" alt="SOPS" height="30"/>
+  <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white" alt="Vault" height="22"/>
+  <img src="https://img.shields.io/badge/SOPS-303030?logo=gnuprivacyguard&logoColor=white" alt="SOPS" height="22"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36"/>
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MS SQL" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28"/>
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MS SQL" height="22"/>
 </p>
 
 ### 👨‍💻 Programming & Scripting
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="28"/>
 </p>
 
 ### 🌐 Web Servers & Application Servers
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="36"/>
-  <img src="https://img.shields.io/badge/IIS-0078D6?logo=microsoft&logoColor=white" alt="IIS" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="28"/>
+  <img src="https://img.shields.io/badge/IIS-0078D6?logo=microsoft&logoColor=white" alt="IIS" height="22"/>
 </p>
 
 ### 💻 Operating Systems
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="28"/>
 </p>
 
 ---
