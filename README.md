@@ -79,7 +79,7 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
 <p>
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=flat" alt="Argo CD" height="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="22"/>
-  <img src="https://img.icons8.com/ios-filled/24/000000/kubernetes.png" alt="CKAD"/>
+  <img src="https://github.com/cncf/artwork/raw/master/certified-kubernetes-application-developer/certified-kubernetes-application-developer-white.svg" alt="CKAD" height="24"/>
 </p>
 
 ---
