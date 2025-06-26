@@ -10,22 +10,70 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills
 
+### ☁️ Cloud Platforms & Infrastructure
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware vSphere" width="36"/>
+  <img src="https://img.shields.io/badge/Proxmox-333333?logo=proxmox&logoColor=E57000" alt="Proxmox" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm" height="30"/>
+</p>
+
+### 📈 Monitoring & Observability
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="36"/>
+</p>
+
+### 🔄 Version Control & CI/CD
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36"/>
+  <img src="https://img.shields.io/badge/Flux%20CD-0066FF?logo=flux&logoColor=white" alt="Flux CD" height="30"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD" height="30"/>
+</p>
+
+### 🔐 Security & Configuration Management
+<p>
+  <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white" alt="Vault" height="30"/>
+  <img src="https://img.shields.io/badge/SOPS-303030?logo=gnuprivacyguard&logoColor=white" alt="SOPS" height="30"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36"/>
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MS SQL" height="30"/>
+</p>
+
+### 👨‍💻 Programming & Scripting
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="36"/>
+</p>
+
+### 🌐 Web Servers & Application Servers
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="36"/>
+  <img src="https://img.shields.io/badge/IIS-0078D6?logo=microsoft&logoColor=white" alt="IIS" height="30"/>
+</p>
+
+### 💻 Operating Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="36"/>
 </p>
 
 ---
@@ -72,7 +120,7 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 
 - **Mentor:** Sprott MBA Peer Mentor, Carleton University
 - **Volunteer:** Red Cross blood donor, Army Run 10K finisher
-- **Interests:** Building PCs, troubleshooting tech, stargazing, traveling, reading, philosophy, and chess[2]
+- **Interests:** Building PCs, troubleshooting tech, stargazing, traveling, reading, philosophy, and chess
 
 ---
 
@@ -81,4 +129,4 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 - **LinkedIn:** [vijaiveerapandian](https://www.linkedin.com/in/vijaiveerapandian)
 - **Email:** vijai.veerapandian@gmail.com
 
-> “Driven by curiosity, powered by automation, and always eager to learn something new.”
+> “We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle”
