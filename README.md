@@ -115,7 +115,7 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
 
 ---
 
-## 🌱 Personal Projects
+## 🌱 Some Public Projects
 
 Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hands-on DevOps, automation, and cloud-native projects, including CI/CD pipelines, Kubernetes cluster management, and infrastructure-as-code examples.
 
