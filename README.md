@@ -95,9 +95,9 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
 ## 🏆 Certifications
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Certified Kubernetes Administrator (CKA)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> **AWS Certified Solutions Architect – Associate**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> **AWS Certified Solutions Architect – Associate**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20"/> **Red Hat Certified Specialist in Ansible Automation**
-- <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> **ITIL V3 Foundation**
+- <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20"/> **ITIL V3 Foundation**
 
 ---
 
