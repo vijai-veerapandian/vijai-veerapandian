@@ -124,7 +124,7 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 ## 🌟 Beyond Tech
 
 - **Mentor:** Sprott MBA Peer Mentor, Carleton University
-- **Volunteer:** Red Cross blood donor, Army Run 10K finisher
+- **Volunteer:** Red Cross blood donor, Army Run 10K finisher in 2023, Ottawa
 - **Interests:** Building PCs, troubleshooting tech, stargazing, traveling, reading, philosophy, and chess
 
 ---
