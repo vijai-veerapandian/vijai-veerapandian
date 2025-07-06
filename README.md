@@ -133,6 +133,6 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 
 - **LinkedIn:** [vijaiveerapandian](https://www.linkedin.com/in/vijaiveerapandian)
 - **Email:** vijai.veerapandian@gmail.com
-- **CV:** [View my CV](./cv/CV-Vijai.pdf)
+- **CV:** [view my CV](./cv/CV-Vijai.pdf)
 
 > “We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle”
