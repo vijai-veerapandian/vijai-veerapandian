@@ -113,18 +113,6 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
   <img src="https://komarev.com/ghpvc/?username=vijai-veerapandian&color=blue" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijai-veerapandian&theme=tokyonight" alt="GitHub Activity Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijai-veerapandian&theme=github-compact" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijai-veerapandian&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</p>
-
 ---
 
 ## 🌱 Some Public Projects
