@@ -108,17 +108,11 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijai-veerapandian&theme=tokyonight" alt="Vijai's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijai-veerapandian&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijai-veerapandian&color=blue" alt="Profile Views" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijai-veerapandian&theme=github_dark" alt="GitHub Activity Overview" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijai-veerapandian&theme=github" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijai-veerapandian&theme=github" />
 </p>
 
 ---
