@@ -21,9 +21,11 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
   <img src="https://img.shields.io/badge/Proxmox-333333?logo=proxmox&logoColor=E57000&style=flat" alt="Proxmox" height="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="22"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="22"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" height="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker Compose" width="22"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="22"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=flat" alt="Helm" height="18"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=flat" alt="Argo CD" height="18"/>
 </p>
 
 ### 📈 Monitoring & Observability
@@ -77,7 +79,6 @@ I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalabl
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=flat" alt="Argo CD" height="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="22"/>
   <img src="https://img.shields.io/badge/CKAD-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="CKAD" height="18"/>
 </p>
