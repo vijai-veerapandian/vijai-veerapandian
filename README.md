@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a DevOps Engineer based in Ottawa, Canada, passionate about building scalable, reliable, and secure infrastructure. I thrive on solving complex problems and love collaborating with cross-functional teams to deliver exceptional results. My journey covers cloud-native development, automation, and data science, with hands-on experience in startups, global enterprises, and freelance projects. Also, Part of Kubecraft DevOps Community runned by Mischa from Netherlands.
+I'm a DevOps Engineer, Passionate about building scalable, reliable, and secure infrastructure. I thrive on solving complex problems and love collaborating with cross-functional teams to deliver exceptional results. My journey covers cloud-native development, automation, and data science, with hands-on experience in startups, global enterprises, and freelance projects. Also, Part of Kubecraft DevOps Community runned by Mischa from Netherlands.
 
 ---
 
