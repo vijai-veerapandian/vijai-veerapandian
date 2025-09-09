@@ -85,7 +85,7 @@ I'm a DevOps Engineer, Passionate about Technology and the benefits it can bring
 ---
 
 ## 💼 Experience Highlights
-
+- **OmniNeuroAI:** Its a Startup and as a SRE/DevOps Engineer build and manage infrastructure from the ground up and into the AWS Cloud, EKS Clusters, Kubernetes, Terraform, GitOps, ArgoCD, CICD and     monitoring/observability tools, Dockers, GitHub actions, CloudWatch, Prometheus, Grafana and Linux administration and some python etc., for AI products.
 - **Freelance DevOps Engineer:** Delivered scalable infrastructure and CI/CD solutions for multiple clients using Ansible, Terraform, Docker, and Kubernetes.
 - **REBL Startup:** Managed cloud-native databases and ML workflows on GCP, contributing to agile product development.
 - **Wipro (Intel, Cisco, Apple, Takeda, JTI):** Led automation, infrastructure modernization, and cloud migration projects for Fortune 500 clients, including smart city and IoT initiatives.
