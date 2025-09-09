@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a DevOps Engineer, Passionate about Technology and the benefits it can bring to the modern world. I'm a quick learner and thrive on solving complex problems and love collaborating with cross-functional teams to deliver exceptional results. My journey covers cloud-native development, automation, and data science, with hands-on experience in startups, global enterprises, and freelance projects. Also, Part of Kubecraft DevOps Community runned by Mischa from Netherlands.
+I'm a DevOps Engineer, Passionate about Technology and the benefits it can bring to the modern world. I thrive on solving complex problems and love collaborating with cross-functional teams to deliver exceptional results. My journey covers cloud-native development, automation, and data science, with hands-on experience in startups, global enterprises, and freelance projects. Also, Part of Kubecraft DevOps Community runned by Mischa from Netherlands.
+
+Other then that, I'm a curious, nature loving, cares for humanity through technology individual. I like collaborating, listening to clients, teams concerns/problems to understand their perspective and set objectives/goals with time and work towards achieving the same. During free time, I like to play Chess via Chess.com with others, Reading books, building Homelab, spending time with Community and traveling if possible.
 
 ---
 
