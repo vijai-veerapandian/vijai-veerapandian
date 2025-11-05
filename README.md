@@ -143,7 +143,7 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 
 - **LinkedIn:** [vijaiveerapandian](https://www.linkedin.com/in/vijaiveerapandian)
 - **Email:**     vijai.veerapandian@gmail.com
-- **CV (PDF – View Online):** [📄 View my CV](./Vijai_IT_Devops_10+years_CV_v1.8.pdf)
-- **CV (DOCX – Download):** [⬇️ Download Word CV](./Vijai_IT_Devops_10+years_CV_v1.8.docx)
+- **CV (PDF – View Online):** [📄 View my CV](./Vijai_IT_Devops_10+years_CV_v1.9.pdf)
+- **CV (DOCX – Download):** [⬇️ Download Word CV](./Vijai_IT_Devops_10+years_CV_v1.9.docx)
   
 > “Do it, Do it, all the way! - Charles Bukowski”
