@@ -84,9 +84,7 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
   <!-- IBM Logo + Course Name -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" height="18"/>
   IBM RAG and Agentic AI: Build Next-Gen AI Systems (Professional Certificate)
-
   <br/><br/>
-
   <!-- CKAD Badge -->
   <img src="https://img.shields.io/badge/CKAD-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="CKAD" height="18"/>
 </p>
