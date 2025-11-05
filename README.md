@@ -81,7 +81,8 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="22"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" height="18"/>
+  IBM RAG and Agentic AI: Build Next-Gen AI Systems (Professional Certificate)
   <img src="https://img.shields.io/badge/CKAD-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="CKAD" height="18"/>
 </p>
 ---
