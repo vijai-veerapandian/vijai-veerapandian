@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vijai Veerapandian
 
-**DevOps Engineer | Cloud-Native Specialist | Automation Enthusiast**
+**Platform | DevOps Engineer | Cloud-Native Specialist | Automation Enthusiast**
 
 ---
 
