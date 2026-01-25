@@ -92,11 +92,25 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 ---
 
 ## 💼 Experience Highlights
-- **OmniNeuroAI:** Its a Startup and as a SRE/DevOps Engineer build and manage infrastructure from the ground up and into the AWS Cloud, EKS Clusters, Kubernetes, Terraform, GitOps, ArgoCD, CICD and     monitoring/observability tools, Dockers, GitHub actions, CloudWatch, Prometheus, Grafana and Linux administration and some python etc., for AI products.
-- **Freelance DevOps Engineer:** Delivered scalable infrastructure and CI/CD solutions for multiple clients using Ansible, Terraform, Docker, and Kubernetes.
-- **REBL Startup:** Managed cloud-native databases and ML workflows on GCP, contributing to agile product development.
-- **Wipro (Intel, Cisco, Apple, Takeda, JTI):** Led automation, infrastructure modernization, and cloud migration projects for Fortune 500 clients, including smart city and IoT initiatives.
-- **Ebix Ltd:** Streamlined server administration and release processes for major financial clients.
+
+- **Platform/ DeveOps Engineer:** Built and managed **cloud-native infrastructure from the ground up** on **AWS**, including **EKS clusters, Kubernetes, Terraform, Argo CD (GitOps), CI/CD pipelines**, and observability/monitoring tools like **CloudWatch, Prometheus, Grafana, and EFK stack**. Implemented **Docker/Docker Compose workflows**, automated deployments, and Linux administration for AI/ML products.
+
+- **Cloud & DevOps Consultant:** Delivered **scalable infrastructure, automation, and CI/CD solutions** for multiple clients using **Ansible, Terraform, Docker, Kubernetes, and GitHub Actions**. Enabled **hybrid cloud deployments** and **migration-ready architectures**.
+
+- **Cloud Migration & Platform Engineer:** Led **on-prem to AWS migration projects**, implementing **multi-account Landing Zones, Control Tower, IAM, SCPs, centralized logging, and network architecture**. Supported **workload modernization** using **EC2, EKS, ECS, Lambda, S3, CloudFront, Route 53, and VPC networking**, ensuring secure, compliant, and cost-optimized deployments.
+
+- **Cloud-Native Data & ML Workflows:** Managed **databases and analytics pipelines** on AWS/GCP, supporting AI/ML workloads with automation, monitoring, and CI/CD best practices.
+
+- **Infrastructure Modernization:** Streamlined **server administration, automation, and release processes**, implementing **IaC, container orchestration, and observability platforms** to improve operational efficiency and deployment velocity.
+
+---
+
+### 🛠 Technologies
+
+**AWS:** Landing Zone, Control Tower, Organizations, IAM, SCPs, EC2, EKS, ECS, Lambda, S3, CloudFront, Route 53, CloudWatch, CloudTrail, WAF, VPC, Subnets, Security Groups, NACLs  
+**Infrastructure & DevOps:** Terraform, CloudFormation, Ansible, Docker, Docker Compose, Kubernetes, Argo CD, GitHub Actions, CI/CD  
+**Observability & Security:** Prometheus, Grafana, EFK stack, Vault, SOPS  
+**Other:** Linux, Python
 
 ---
 
@@ -143,7 +157,5 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 
 - **LinkedIn:** [vijaiveerapandian](https://www.linkedin.com/in/vijaiveerapandian)
 - **Email:**     vijai.veerapandian@gmail.com
-- **CV (PDF – View Online):** [📄 View my CV](./Vijai_IT_Devops_10+years_CV_v1.14.pdf)
-- **CV (DOCX – Download):** [⬇️ Download Word CV](./Vijai_IT_Devops_10+years_CV_v1.14.docx)
   
 > “Do it, Do it, all the way! - Charles Bukowski”
