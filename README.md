@@ -126,26 +126,25 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vijai-veerapandian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  <img 
+    src="https://stats-github-readme.vercel.app/api?username=vijai-veerapandian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     height="170"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijai-veerapandian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  <img 
+    src="https://stats-github-readme.vercel.app/api/top-langs/?username=vijai-veerapandian&layout=compact&theme=tokyonight&hide_border=true" 
     height="170"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vijai-veerapandian&theme=tokyo-night&hide_border=true"
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vijai-veerapandian&theme=tokyo-night&hide_border=true" 
   />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://komarev.com/ghpvc/?username=vijai-veerapandian&color=blue&style=flat-square"
-    alt="Profile Views"
   />
 </p>
 
