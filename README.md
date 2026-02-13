@@ -139,9 +139,8 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijai-veerapandian&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijai-veerapandian&theme=nord_dark" />
 </p>
-
 
 ---
 
