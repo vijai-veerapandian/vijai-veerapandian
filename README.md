@@ -134,11 +134,6 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
   <img src="https://komarev.com/ghpvc/?username=vijai-veerapandian&color=blue" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijai-veerapandian&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijai-veerapandian&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijai-veerapandian&theme=nord_dark" />
 </p>
 
