@@ -91,7 +91,7 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 
 ---
 
-## 🏠 Mini Home Lab – My Personal Cloud Playground
+## 🏠 Mini Home Lab as of early 2026
 
 <p align="center">
   <img src="./images/miniLab.jpg" width="600"/>
