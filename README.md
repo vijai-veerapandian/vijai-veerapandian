@@ -117,7 +117,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 - Infrastructure-as-Code testing (Terraform + Ansible)
 - Proxmox virtualization workloads
 
-> My homelab is where ideas are tested before production.
+> My homelab is where ideas are tested before scaling into Cloud.
 
 ---
 
