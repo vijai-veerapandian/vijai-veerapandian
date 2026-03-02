@@ -91,6 +91,36 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 
 ---
 
+## 🏠 Mini Home Lab – My Personal Cloud Playground
+
+<p align="center">
+  <img src="./images/miniLab.jpg" width="600"/>
+</p>
+
+I maintain a compact yet powerful homelab environment where I experiment with 
+cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure design.
+
+### 🔧 Hardware Stack
+
+- 💻 Multiple laptops running **Proxmox VE**
+- 🍓 Raspberry Pi (16GB RAM / 128GB storage) for lightweight services & testing
+- 🌐 Local networking setup for simulating production-like environments
+- 🐳 Docker & Kubernetes clusters for CI/CD, GitOps, and monitoring labs
+
+### 🚀 What I Run in My Homelab
+
+- Kubernetes clusters (K3s / kubeadm)
+- GitOps with Argo CD / Flux
+- Monitoring stack (Prometheus + Grafana)
+- ELK/EFK logging experiments
+- CI/CD testing pipelines
+- Infrastructure-as-Code testing (Terraform + Ansible)
+- Proxmox virtualization workloads
+
+> My homelab is where ideas are tested before production.
+
+---
+
 ## 💼 Experience Highlights
 
 - **Platform/ DeveOps Engineer:** Built and managed **cloud-native infrastructure from the ground up** on **AWS**, including **EKS clusters, Kubernetes, Terraform, Argo CD (GitOps), CI/CD pipelines**, and observability/monitoring tools like **CloudWatch, Prometheus, Grafana, and EFK stack**. Implemented **Docker/Docker Compose workflows**, automated deployments, and Linux administration for AI/ML products.
