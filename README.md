@@ -116,7 +116,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 - CI/CD testing pipelines
 - Wazuh, keycloak and tailscale
 - Infrastructure-as-Code testing (Terraform + Ansible)
-- Microservices applications
+- Microservices applications and Cloudflare
 - Proxmox virtualization workloads
 
 > My homelab is where ideas are tested before scaling into Cloud.
