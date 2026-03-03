@@ -111,10 +111,12 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 - Kubernetes clusters (K3s / kubeadm)
 - GitOps with Argo CD / Flux
-- Monitoring stack (Prometheus + Grafana)
+- Monitoring stack (Prometheus + Grafana + Loki) and Opentelemetry 
 - ELK/EFK logging experiments
 - CI/CD testing pipelines
+- Wazuh, keycloak and tailscale
 - Infrastructure-as-Code testing (Terraform + Ansible)
+- Microservices applications
 - Proxmox virtualization workloads
 
 > My homelab is where ideas are tested before scaling into Cloud.
