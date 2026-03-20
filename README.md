@@ -91,7 +91,7 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 
 ---
 
-## 🏠 Mini Home Lab as of early 2026
+## 🏠 MiniLab Home version5 as of 2026
 
 <p align="center">
   <img src="./images/miniLabv5.jpg" width="600"/>
@@ -102,10 +102,12 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 🔧 Hardware Stack
 
-- 💻 Multiple laptops running **Proxmox VE**
-- 🍓 Raspberry Pi (16GB RAM / 128GB storage) for lightweight services & testing
-- 🌐 Local networking setup for simulating production-like environments
-- 🐳 Docker & Kubernetes clusters for CI/CD, GitOps, and monitoring labs
+- 🧩 **Lenovo** Multiple laptops (biggest one running with 32GB RAM/ 1TB SSD) **Proxmox VE**
+- 🖥️ **HP** EliteDesk (running 16GB RAM/256GB SSD) running **Proxmox VE**
+- 🍓 **Raspberry Pi** (16GB RAM / 128GB SSD) for lightweight services & testing
+- 🌐 **Local networking** setup for simulating production-like environments
+- 🐳 **Docker & Kubernetes** clusters for CI/CD, GitOps, and monitoring labs
+
 
 ### 🚀 What I Run in My Homelab
 
