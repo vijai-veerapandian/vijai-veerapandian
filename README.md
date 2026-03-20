@@ -104,8 +104,8 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 - 🧩 **Lenovo** Multiple laptops (biggest one running with 32GB RAM/ 1TB SSD) **Proxmox VE**
 - 🖥️ **HP** EliteDesk (running 16GB RAM/256GB SSD) running **Proxmox VE**
-- 🍓 **Raspberry Pi** (16GB RAM / 128GB SSD) for lightweight services & testing
-- 🌐 **Local networking** setup for simulating production-like environments
+- 🍓 **Raspberry Pi** (16GB RAM / 128GB SSD) for lightweight services
+- 🌐 **Local networking** An Ethernet Switch for physical network connectivity
 - 🐳 **Docker & Kubernetes** clusters for CI/CD, GitOps, and monitoring labs
 
 
