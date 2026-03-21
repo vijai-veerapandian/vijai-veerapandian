@@ -106,10 +106,10 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 - 🖥️ **HP** EliteDesk (running 16GB RAM/256GB SSD) running **Proxmox VE**
 - 🍓 **Raspberry Pi** (16GB RAM / 128GB SSD) for lightweight services
 - 🌐 **Local networking** An Ethernet Switch for physical network connectivity
-- 🐳 **Docker & Kubernetes** clusters for CI/CD, GitOps, and monitoring labs
+- ☸️🐳 **Docker & Kubernetes** clusters for CI/CD, GitOps, and monitoring labs
 
 
-### 🚀 What I Run in My Homelab
+### 🏠 What I Run in My Homelab
 
 - Kubernetes clusters (K3s / kubeadm)
 - GitOps with Argo CD / Flux
