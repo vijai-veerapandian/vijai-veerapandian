@@ -141,8 +141,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 🛠 Technologies
 
-**AWS:** Landing Zone, Control Tower, Organizations, IAM, SCPs, EC2, EKS, ECS, Lambda, S3, CloudFront, Route 53, CloudWatch, CloudTrail, WAF, VPC, Subnets, Security Groups, NACLs.
-
+**AWS:** Landing Zone, Control Tower, Organizations, IAM, SCPs, EC2, EKS, ECS, Lambda, S3, CloudFront, Route 53, CloudWatch, CloudTrail, WAF, VPC, Subnets, Security Groups, NACLs
 **Cloudflare:** Cloudflare tunnel and pages and DDOS protection and domain webhosting
 **Infrastructure & DevOps:** Terraform, CloudFormation, Ansible, Docker, Docker Compose, Kubernetes, Argo CD, GitHub Actions, CI/CD  
 **Observability & Security:** Prometheus, Grafana, EFK stack, Vault, SOPS  
