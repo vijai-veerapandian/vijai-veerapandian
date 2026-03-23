@@ -102,7 +102,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 🔧 Hardware Stack
 
-- 🧩 **Lenovo** Multiple laptops (biggest one running with 32GB RAM/ 1TB SSD) **Proxmox VE**
+- 🧩 **Lenovo** Multiple laptops (biggest one running with 32GB RAM/ 1TB SSD, other two are with 16RAM/256/512GB SSD each) **Proxmox VE**
 - 🖥️ **HP** EliteDesk (running 16GB RAM/256GB SSD) running **Proxmox VE**
 - 🍓 **Raspberry Pi** (16GB RAM / 128GB SSD) for lightweight microservices
 - 🌐 **Local networking** An Ethernet Switch for physical network connectivity
