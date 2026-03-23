@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a DevOps Engineer and a Portfolio thinker, Passionate about Technology and the benefits it can bring to the modern world. I thrive on solving complex problems and love collaborating with cross-functional teams to deliver exceptional results. My journey covers cloud-native development, automation, and data science, with hands-on experience in startups, global enterprises, and freelance projects. Also, Part of Kubecraft DevOps Community runned by Mischa from Netherlands.
 
