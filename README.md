@@ -202,6 +202,6 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 ## 📫 Let's Connect
 
 - **LinkedIn:** [vijaiveerapandian](https://www.linkedin.com/in/vijaiveerapandian)
-- **Email:**     vijai.veerapandian@gmail.com
+- **Email:**     veerapandianvijai657@gmail.com
   
 > “Do it, Do it, all the way! - Charles Bukowski”
