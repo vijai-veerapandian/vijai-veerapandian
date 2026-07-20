@@ -111,7 +111,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 🏠 What I Run in My Homelab
 
-- Kubernetes clusters (K3s / kubeadm)
+- Kubernetes clusters (K3s / kubeadm), Kind Cluster and Docker/Docker-compose
 - GitOps with Argo CD / Flux
 - Monitoring stack (Prometheus + Grafana + Loki) and Opentelemetry 
 - ELK/EFK logging experiments
