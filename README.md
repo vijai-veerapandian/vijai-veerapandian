@@ -157,6 +157,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> **AWS Certified Solutions Architect – Associate**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20"/> **Red Hat Certified Specialist in Ansible Automation**
 - <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20"/> **ITIL V3 Foundation**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="20" alt="IBM"/> **IBM Certified Specialist – System p Administration**
 
 ---
 
