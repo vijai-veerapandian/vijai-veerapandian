@@ -79,14 +79,13 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="22"/>
 </p>
 
-### 📚 Currently Learning
+### 📚 Currently Learning & Certifying
 <p>
-  <!-- IBM Logo + Course Name -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" height="18"/>
-  IBM RAG and Agentic AI: Build Next-Gen AI Systems (Professional Certificate)
-  <br/><br/>
   <!-- CKAD Badge -->
-  <img src="https://img.shields.io/badge/CKAD-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="CKAD" height="18"/>
+  <img src="https://img.shields.io/badge/Certified_Kubernetes_Application_Developer_(CKAD)-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="CKAD" height="18"/>
+  &nbsp;
+  <!-- CKS Badge -->
+  <img src="https://img.shields.io/badge/Certified_Kubernetes_Security_Specialist_(CKS)-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="CKS" height="18"/>
 </p>
 
 ---
