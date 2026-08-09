@@ -151,7 +151,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ## 🏆 Certifications
 
-- <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/claude.svg" width="20" alt="Claude"/> **Claude 101 – Anthropic Academy (Certificate of Completion)**
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="20" alt="Claude"/> **Claude 101 – Anthropic Academy (Certificate of Completion)**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Certified Kubernetes Administrator (CKA)**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> **AWS Certified Solutions Architect – Associate**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20"/> **Red Hat Certified Specialist in Ansible Automation**
