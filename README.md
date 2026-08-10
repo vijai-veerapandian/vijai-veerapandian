@@ -196,8 +196,9 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 
 ## 🌟 Beyond Tech
 
+- **Achievements:** Canada Army Run 10K Finisher (Ottawa, 2023)
 - **Mentor:** Sprott MBA Peer Mentor, Carleton University
-- **Volunteer:** Red Cross blood donor in India, Army Run 10K finisher in 2023, Ottawa, Canada
+- **Volunteer:** Red Cross blood donor in Chennai, India
 - **Interests:** Building PCs, Troubleshooting Tech, Stargazing, Traveling, History, Philosophy and Chess.com
 
 ---
