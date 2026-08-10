@@ -199,7 +199,7 @@ Explore my [GitHub repositories](https://github.com/vijai-veerapandian) for hand
 - **Achievements:** Canada Army Run 10K Finisher (Ottawa, 2023)
 - **Mentor:** Sprott MBA Peer Mentor, Carleton University
 - **Volunteer:** Red Cross blood donor in Chennai, India
-- **Interests:** Building PCs, Troubleshooting Tech, Stargazing, Traveling, History, Philosophy and Chess.com
+- **Interests:** Building PCs, Troubleshooting Tech, Stargazing, Traveling, Ancient History, Philosophy, Chess.com and ofcourse good Music! 🎵
 
 ---
 
