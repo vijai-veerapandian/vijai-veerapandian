@@ -150,14 +150,19 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ## 🏆 Certifications
 
-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code in Action (Certificate of Completion)**
-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code 101 (Certificate of Completion)**
-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="20" alt="Claude"/> **Claude 101 – Anthropic Academy (Certificate of Completion)**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Certified Kubernetes Administrator (CKA)**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> **AWS Certified Solutions Architect – Associate**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20"/> **Red Hat Certified Specialist in Ansible Automation**
 - <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20"/> **ITIL V3 Foundation**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="20" alt="IBM"/> **IBM Certified Specialist – System p Administration**
+
+---
+
+### 📜 Certificates of Completion
+
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code in Action (Certificate of Completion)**
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code 101 (Certificate of Completion)**
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="20" alt="Claude"/> **Claude 101 – Anthropic Academy (Certificate of Completion)**
 
 ---
 
