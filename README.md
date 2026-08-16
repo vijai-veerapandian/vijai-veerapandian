@@ -160,9 +160,9 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 📜 Certificates of Completion
 
-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code in Action (Certificate of Completion)**
-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code 101 (Certificate of Completion)**
-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="20" alt="Claude"/> **Claude 101 – Anthropic Academy (Certificate of Completion)**
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code in Action**
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="20" alt="Claude Code"/> **Claude Code 101**
+- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="20" alt="Claude"/> **Claude 101 – Anthropic Academy**
 
 ---
 
