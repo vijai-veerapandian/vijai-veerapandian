@@ -140,8 +140,9 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 🛠 Technologies
 
-**AWS:** EC2, EKS, ECS, Lambda, S3, CloudFront, Route 53, CloudWatch, CloudTrail, Cloudfront, WAF, Shield, VPC, Subnets, Security Groups, NACLs, Transit Gateway, VPC firewall, IAM, IAM Center, Organizations
-**Cloudflare:** Cloudflare tunnel and pages and DDOS protection and domain webhosting  
+**AWS:** EC2, EKS, ECS, Lambda, S3, Route 53, CloudWatch, CloudTrail, CloudFront, WAF, Shield, VPC, Subnets, Security Groups, NACLs, Transit Gateway, VPC Network firewall, IAM, IAM Center, Organizations
+**Cloudflare:** Cloudflare tunnel and pages and DDOS protection and domain webhosting 
+**Tailscale**: Homelab VPN
 **Infrastructure & DevOps:** Terraform, CloudFormation, Ansible, Docker, Docker Compose, Kubernetes, Karpenter, KEDA, Argo CD, GitHub Actions, CI/CD  
 **Observability & Security:** Prometheus, Grafana, Datadog, EFK stack, Vault, SOPS  
 **Other:** Linux, Python
