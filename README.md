@@ -90,7 +90,7 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 
 ---
 
-## 🏠 MiniLab Home version5 as of 2026
+## 🏠 MiniLab Home version6 as of Sept 2026
 
 <p align="center">
   <img src="./images/miniLabv6.jpg" width="600"/>
@@ -101,21 +101,23 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
 
 ### 🔧 Hardware Stack
 
-- 🧩 **Lenovo** Multiple laptops (biggest one running with 32GB RAM/ 1TB SSD, other two are with 16RAM/256/512GB SSD each) **Proxmox VE**
-- 🖥️ **HP** EliteDesk (running 16GB RAM/256GB SSD) running **Proxmox VE**
-- 🍓 **Raspberry Pi** (16GB RAM / 128GB SSD) for lightweight microservices
+- 🧩 **3 × Lenovo laptops** running **Proxmox VE** — one with 32 GB RAM / 1 TB SSD,
+  two with 16 GB RAM (512 GB & 256 GB SSD) — repurposed as always-on cluster nodes
+  (`pve-01`, `pve-02`, `pve-03`)
+- 🖥️ **HP EliteDesk** — 16 GB RAM / 256 GB SSD — additional **Proxmox VE** host
+- 🛡️ **BosGame E5 Plus** (AMD Ryzen 3 5400U · 8 GB RAM / 256 GB SSD · dual 2.5 GbE)
+  running **OPNsense** — firewall, routing, DHCP & DNS
 - 🌐 **Local networking** An Ethernet Switch for physical network connectivity
 - ☸️🐳 **Docker & Kubernetes** clusters for CI/CD, GitOps, and monitoring labs
 
 
 ### 🏠 What I Run in My Homelab
 
-- Kubernetes clusters (K3s / kubeadm), Kind Cluster and Docker/Docker-compose
+- Kubernetes clusters (kubeadm), Kind Cluster and Docker/Docker-compose
 - GitOps with Argo CD / Flux
 - Monitoring stack (Prometheus + Grafana + Loki) and Opentelemetry 
-- ELK/EFK logging experiments
 - CI/CD testing pipelines
-- Wazuh, keycloak and tailscale
+- OPNsense firewall and Tailscale
 - Infrastructure-as-Code testing (Terraform + Ansible)
 - Microservice applications and Cloudflare
 - Proxmox virtualization workloads
