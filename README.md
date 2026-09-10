@@ -93,7 +93,7 @@ Other then that, I'm a curious, nature loving, cares for humanity through techno
 ## 🏠 MiniLab Home version6 as of Sept 2026
 
 <p align="center">
-  <img src="./images/minilabv7.1.jpg" width="600"/>
+  <img src="./images/minilab-v7.1.jpg" width="600"/>
 </p>
 
 I maintain a compact yet powerful homelab environment where I experiment with 
