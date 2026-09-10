@@ -105,8 +105,7 @@ cloud-native technologies, Kubernetes, automation, GitOps, and infrastructure de
   two with 16 GB RAM (512 GB & 256 GB SSD) — repurposed as always-on cluster nodes
   (`pve-01`, `pve-02`, `pve-03`)
 - 🖥️ **HP EliteDesk** — 16 GB RAM / 256 GB SSD — additional **Proxmox VE** host
-- 🛡️ **BosGame E5 Plus** (AMD Ryzen 3 5400U · 8 GB RAM / 256 GB SSD · dual 2.5 GbE)
-  running **OPNsense** — firewall, routing, DHCP & DNS
+- 🛡️ **BosGame E5 Plus** (AMD Ryzen 3 5400U · 8 GB RAM / 256 GB SSD · dual 2.5 GbE) **OPNsense** — firewall, routing, DHCP & DNS
 - 🌐 **Local networking** An Ethernet Switch for physical network connectivity
 - ☸️🐳 **Docker & Kubernetes** clusters for CI/CD, GitOps, and monitoring labs
 
